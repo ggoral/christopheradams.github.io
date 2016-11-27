@@ -125,3 +125,12 @@ p.attribution {
   text-align: right;
 }
 
+blockquote {
+  font-style: italic;
+}
+
+blockquote a {
+  font-style: normal;
+}
+
+
